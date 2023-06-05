@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "title": "Berak",
+      "reminder": "2023-06-04T10:00",
+      "done": false,
+      "id": 1
+    },
+    {
+      "title": "Krisna Taufik Hidayat",
+      "reminder": "2023-06-08T10:20",
+      "done": false,
+      "id": 2
+    }
+  ]
+}
